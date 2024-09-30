@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/NautaDevs/.github/refs/heads/main/profile/nauta-indigo.png" align="left" width="200"/>
+<img src="https://raw.githubusercontent.com/NautaDevs/.github/8aa9b73cf6e613f423babbddeb5541dfef3bd437/profile/nauta-indigo.svg" align="left" width="200"/>
 
 ### `NautaExternal`
 
