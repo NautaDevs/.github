@@ -1,6 +1,6 @@
 <div align="center">
 <picture>
-    <img src="./nauta-indigo.svg" width="128px">
+    <img src="nauta-indigo.svg" width="128px">
 </picture>
 </div>
 <h1 align="center">
