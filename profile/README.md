@@ -1,13 +1,12 @@
-<div align="center">
-<picture>
-    <img src="nauta-indigo.svg" width="128px">
-</picture>
-</div>
-<h1 align="center">
-NautaExternal Website 
-</h1>
+<img src="https://raw.githubusercontent.com/NautaDevs/.github/refs/heads/main/profile/nauta-indigo.png" align="left" width="200"/>
 
+### `NautaExternal`
 
-[Docs-Gitbook](https://docs.nautaexternal.dev) | [Uptime-Phare](https://uptime.nautaexternal.dev)
+All your modding needs, consolidated in a single, user-friendly platform.
+We take pride in delivering the most sophisticated software available for PC.
 
-NautaExternal's website is built with [Next.js](https://nextjs.org/), [TypeScript](https://www.typescriptlang.org/), and [Tailwind CSS](https://tailwindcss.com/).
+<a href="https://nautaexternal.dev/">Website</a> |
+<a href="https://docs.nautaexternal.dev/">Docs</a> |
+<a href="https://nautaexternal.dev/download">Download</a> |
+<a href="https://nautaexternal.dev/release-notes/latest">Release Notes</a> |
+<a href="https://ko-fi.com/nautaexternal">Contribute</a>
