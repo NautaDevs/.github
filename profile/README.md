@@ -7,5 +7,5 @@ We take pride in delivering the most sophisticated software available for PC.
 
 <a href="https://nautaexternal.dev/">Website</a> |
 <a href="https://nautaexternal.dev/docs">Docs</a> |
-<a href="https://nautaexternal.dev/release-notes">Release Notes</a>
+<a href="https://nautaexternal.dev/release-notes">Release Notes</a> |
 <a href="https://nautaexternal.dev/roadmap">Roadmap</a>
