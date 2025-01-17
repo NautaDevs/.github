@@ -1,11 +1,14 @@
-<img src="https://raw.githubusercontent.com/NautaDevs/.github/8aa9b73cf6e613f423babbddeb5541dfef3bd437/profile/nauta-indigo.svg" align="left" width="200"/>
+<img src="https://i.imgur.com/LCclt2h.png" align="left" width="200"/>
 
-### `NautaExternal`
+### `NautaDevs`
 
-All your modding needs, consolidated in a single, user-friendly platform.
+⚒️ Working on NautaExternal & NautaInternal. <br /> <br />
+All your modding needs, consolidated in a single, user-friendly platform. <br />
 We take pride in delivering the most sophisticated software available for PC.
 
 <a href="https://nautaexternal.dev/">Website</a> |
 <a href="https://nautaexternal.dev/docs">Docs</a> |
 <a href="https://nautaexternal.dev/release-notes">Release Notes</a> |
-<a href="https://nautaexternal.dev/roadmap">Roadmap</a>
+<a href="https://nautaexternal.dev/roadmap">Roadmap</a> |
+<a href="https://nautaexternal.dev/youtube">YouTube</a> |
+<a href="https://nautaexternal.dev/discord">Discord</a>
